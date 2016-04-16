@@ -1,0 +1,24 @@
+
+#Ignore all
+/*
+
+#Exclude source folders/files
+!/src/
+/src/*
+!/src/minecraft/
+/src/minecraft/*
+!/src/minecraft/iunius/
+
+!/src/minecraft/net/
+/src/minecraft/net/*
+!/src/minecraft/net/minecraft/
+/src/minecraft/net/minecraft/*
+!/src/minecraft/net/minecraft/src/
+/src/minecraft/net/minecraft/src/*
+!/src/minecraft/net/minecraft/src/mod_CCSoundPlayer.java
+
+!/src/minecraft/ccsp_logo.png
+!/src/minecraft/mcmod.info
+!/README_CCSoundPlayer.txt
+!/README.md
+!/.gitignore

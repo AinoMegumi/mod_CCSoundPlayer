@@ -1,0 +1,18 @@
+[
+{
+  "modid" : "mod_CCSoundPlayer",
+  "name" : "CC Sound Player",
+  "version" : "0.2.1",
+  "url" : "https://twitter.com/Iunius118",
+  "credits" : "",
+  "authors": [
+    "Iunius"
+  ],
+  "description": "CCSoundPlayer adds a sound player peripheral for ComputerCraft.",
+  "logoFile" : "/ccsp_logo.png",
+  "updateUrl" : "",
+  "parent" : "",
+  "screenshots": [
+  ]
+}
+]
