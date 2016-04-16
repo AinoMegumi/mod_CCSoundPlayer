@@ -17,6 +17,8 @@
 /src/minecraft/net/minecraft/src/*
 !/src/minecraft/net/minecraft/src/mod_CCSoundPlayer.java
 
+!/src/minecraft/terrain/
+
 !/src/minecraft/ccsp_logo.png
 !/src/minecraft/mcmod.info
 !/README_CCSoundPlayer.txt
