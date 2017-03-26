@@ -1,5 +1,5 @@
 
-	CC Sound Player 0.2.1
+	CC Sound Player 0.2.2
 
 		ìÒFIunius
 

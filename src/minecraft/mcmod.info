@@ -2,8 +2,8 @@
 {
   "modid" : "mod_CCSoundPlayer",
   "name" : "CC Sound Player",
-  "version" : "0.2.1",
-  "url" : "https://twitter.com/Iunius118",
+  "version" : "0.2.2",
+  "url" : "https://github.com/Iunius118/mod_CCSoundPlayer",
   "credits" : "",
   "authors": [
     "Iunius"

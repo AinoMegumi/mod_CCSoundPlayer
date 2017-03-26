@@ -1,17 +1,16 @@
 package net.minecraft.src;
 
+import java.util.HashSet;
+import java.util.Set;
+
+import dan200.turtle.api.TurtleAPI;
 import iunius.ccaddon.soundplayer.BlockSoundPlayer;
 import iunius.ccaddon.soundplayer.SaveEventHandler;
 import iunius.ccaddon.soundplayer.SoundHandler;
 import iunius.ccaddon.soundplayer.TileEntitySoundPlayer;
 import iunius.ccaddon.soundplayer.TurtleSoundPlayer;
-
-import java.util.HashSet;
-import java.util.Set;
-
 import net.minecraft.src.forge.MinecraftForge;
 import net.minecraft.src.forge.MinecraftForgeClient;
-import dan200.turtle.api.TurtleAPI;
 
 public class mod_CCSoundPlayer extends BaseMod {
 
@@ -20,13 +19,13 @@ public class mod_CCSoundPlayer extends BaseMod {
 	@MLProp(info="The Block ID for Sound Player Block", min=0, max=4095, name="SoundPlayerBlockID")
 	public static int idBlockSoundPlayer = 1759;
 	public static Block blockSoundPlayer;
-	public final String blockTextureFilePath = "/terrain/terrain.png";
+	public final String blockTextureFilePath = "/terrain/ccsoundplayer.png";
 
 	public static Set<String> sourceNames = new HashSet<String>();
 
 	@Override
 	public String getVersion() {
-		return "0.2.1";
+		return "0.2.2";
 	}
 
 	@Override
